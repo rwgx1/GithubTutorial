@@ -1,4 +1,4 @@
-# Github Tutorial - from ErikD
+# Github Tutorial - from ErikDubois
 
 A **quick and easy** way to set up a personal github. 
 
